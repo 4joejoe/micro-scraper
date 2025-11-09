@@ -3,7 +3,7 @@
 Clone and Run Project
 
 ```bash
-git clone
+git clone https://github.com/4joejoe/micro-scraper.git
 cd micro-scraper/
 npm i && npm run dev
 ```
