@@ -20,7 +20,7 @@ Project implementaion details
 - Minimal dependecies (express, puppeteer, tsx)
 - Single `GET` Route
   ````bash
-  curl --location 'http://localhost:8000/api/scrape?url=https://ormedia.co.uk/'```
+  curl --location 'http://localhost:8000/api/scrape?url=https://ormedia.co.uk/
   ````
 - URL validation and normalization using regex, no external libraries used
 - Typesafe implementation
